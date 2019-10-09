@@ -1,0 +1,140 @@
+function generator() {
+  // word lists
+  var adjective = [
+    "White",
+    "Pink",
+    "Green",
+    "Black",
+    "Hangmans Blood",
+    "Irish",
+    "Jack",
+    "Incredible",
+    "Singapore",
+    "Sweet",
+    "Dirty",
+    "Gin",
+    "Long Island",
+    "Salty",
+    "Yellow",
+    "Fluffy",
+    "Brass",
+    "Blue",
+    "Hot",
+    "Cuba",
+    "Orange",
+    "Rusty",
+    "Test",
+    "Tequila",
+    "Bloody",
+    "Brave",
+    "Prairie",
+    "Alabama",
+    "Island",
+    "Agent",
+    "Bay",
+    "Lemon",
+    "Lime",
+    "Moscow",
+    "Red",
+    "Jungle",
+    "Amber",
+    "Cement",
+    "Golden",
+    "Flaming",
+    "Fuzzy",
+    "Mint",
+    "Spicy",
+    "White",
+    "Snake",
+    "Melon",
+    "Mind",
+    "Oil",
+    "Four",
+    "Nutty",
+    "Purple",
+    "Queen",
+    "Harvest",
+    "Angel",
+    "Clover",
+    "Corpse",
+    "Saucy",
+    "Pretty"
+  ];
+  var noun = [
+    "Russian",
+    "Lady",
+    "Vesper",
+    "Velvet",
+    "Bomb",
+    "Rose",
+    "Hulk",
+    "Sling",
+    "Sour",
+    "Martini",
+    "Fizz",
+    "Iced Tea",
+    "Dog",
+    "Bird",
+    "Critter",
+    "Monkey",
+    "Hawaii",
+    "Zombie",
+    "Libre",
+    "Hurricane",
+    "Nail",
+    "Pilot",
+    "Sunrise",
+    "Mary",
+    "Bull",
+    "Fire",
+    "Slammer",
+    "Spice",
+    "Orange",
+    "Breeze",
+    "Drop",
+    "Rickey",
+    "Mule",
+    "Lotus",
+    "Juice",
+    "Moon",
+    "Mixer",
+    "Dream",
+    "Safari",
+    "Navel",
+    "Julep",
+    "Toddy",
+    "Spritz",
+    "Bite",
+    "Ball",
+    "Eraser",
+    "Spill",
+    "Horsemen",
+    "Irishmen",
+    "Paradise",
+    "Mother",
+    "Moon",
+    "Tears",
+    "Club",
+    "Reviver",
+    "Runner",
+    "Stunner"
+  ];
+
+  // generate name
+  var name =
+    adjective[Math.floor(Math.random() * adjective.length)] +
+    " " +
+    noun[Math.floor(Math.random() * noun.length)];
+  //alert(name);
+  // remove name div if existing
+  if (document.getElementById("name")) {
+    document
+      .getElementById("placeholder")
+      .removeChild(document.getElementById("name"));
+  }
+  // append to placeholder div
+  var element = document.createElement("div");
+  element.setAttribute("id", "name");
+  element.appendChild(document.createTextNode(name));
+  document.getElementById("placeholder").appendChild(element);
+}
