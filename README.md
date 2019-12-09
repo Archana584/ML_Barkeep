@@ -27,6 +27,12 @@ Input gate tries to learn the weights of the connections in the data. Keeps the 
 
 
 
+## ML barkeep TextGenRNN Code
+![GitHub Logo](ML_Barkeep/img/basemap_v2.png)
+
+
+
+
 
 ## Obervation.
 
