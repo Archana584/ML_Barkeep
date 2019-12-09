@@ -37,7 +37,7 @@ Input gate tries to learn the weights of the connections in the data. Keeps the 
 ## Obervation.
 
 # Visualization of data in Tableau
-![Alt text](/../tableau_MLbarkeep/after drink.png
+![Alt text](/../Desktop/tableau_MLbarkeep/after drink.png)
 
 
 # Future State
