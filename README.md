@@ -32,21 +32,9 @@ Input gate tries to learn the weights of the connections in the data. Keeps the 
 
 # Visualization of data in Tableau
 ![Alt text](/../tableau_MLbarkeep/after drink.png
-# 60 percent of ATM are in zip codes with populations greater than 40,000 residents
-![GitHub Logo](/Bar_Population_ATM.png)
-# ATMs located in zip codes with rent between $700-$1150
-![GitHub Logo](/Bar_Rent_ATM.png)
-# Owners of ATM in RVA
-![GitHub Logo](/Bar_long_ATM.png)
 
-# Other Observation
-50/50 split between bank and non-bank ATMs.  Expect that we are missing more non-bank owed ATMs than bank owned ATMs.
-There is a major ATM strategy difference between the big banks Wells Fargo vs Sun Trust vs. Capital One.
-Wells Fargo has 18 ATMS in the RVA area, compared to 8 and 2 for Sun Trust Bank and Capital One, respectively.
 
-# Learning and Limitations
-Ensure the data is joined in the right order, eliminating unnecessary nulls.
-Be flexible and change approach as needed, data was difficult to get; not convinced we have a complete universe of ATM data
-More time to spend with Master Card and Visa; still convinced this is possible, just not within our time frame or ability at this point
-Relied on ATMs listed in Google;  assume large organizations and a few small entities list their ATMs in google. 
-
+# Future State
+1. Add more cocktails for different results
+2. Add name generator to Alexa skill to come up with fun names on the fly
+3. Build personalized recipes based on a person’s favorite cocktails
