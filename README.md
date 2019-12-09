@@ -22,12 +22,12 @@ Use over 500 cocktail recipes from the cocktail db on Kaggle.com
 
 
 ## Breakdown of Tasks:
-1.Use RNN (Recurrent Neural Network) with LTSM (Long Short Term Model) to “learn” the data and produce new recipes
-2.Used Colaboratory notebook on the Google Cloud platform to run python code. This allowed us to process the code using TensorFlow on a   GPU for speed.
-3.Utilized Textgenrnn library to help set parameters for the model
-4.Once new cocktails are generated, plot before and after data in Tableau
-5.Build Alexa Skill to ask for a new cocktail recipe
-6.Used Alexa Skills Developer and AWS Lambda to build the Alexa skill
+1. Use RNN (Recurrent Neural Network) with LTSM (Long Short Term Model) to “learn” the data and produce new recipes
+2. Used Colaboratory notebook on the Google Cloud platform to run python code. This allowed us to process the code using TensorFlow on a   GPU for speed.
+3. Utilized Textgenrnn library to help set parameters for the model
+4. Once new cocktails are generated, plot before and after data in Tableau
+5. Build Alexa Skill to ask for a new cocktail recipe
+6. Used Alexa Skills Developer and AWS Lambda to build the Alexa skill
 
 ## ATM Data Search Method:
 Pulled 1000 random latitudes and longitudes in the Richmond region
