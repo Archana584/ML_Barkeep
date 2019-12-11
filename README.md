@@ -38,6 +38,9 @@ Input gate tries to learn the weights of the connections in the data. Keeps the 
 
 # Visualization of data in Tableau
 ![GitHub Logo](/before%20glass.PNG)
+![GitHub Logo](/after%20glass.PNG)
+![GitHub Logo](/before%20glass.PNG)
+![GitHub Logo](/before%20glass.PNG)
 
 https://github.com/Archana584/ML_Barkeep/blob/master/before%20glass.PNG
 # Future State
