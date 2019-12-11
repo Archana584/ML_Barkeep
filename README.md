@@ -38,8 +38,11 @@ Input gate tries to learn the weights of the connections in the data. Keeps the 
 
 # Visualization of data in Tableau
 ![GitHub Logo](/before%20glass.PNG)
+
 ![GitHub Logo](/after%20glass.PNG)
+
 ![GitHub Logo](/Before%20drink.PNG)
+
 ![GitHub Logo](/after%20drink.PNG)
 
 # Future State
