@@ -38,8 +38,7 @@ Input gate tries to learn the weights of the connections in the data. Keeps the 
 
 ![GitHub Logo](/after%20drink.PNG)
 
-![GitHub Logo](/after%20drink.PNG)
-
+![GitHub Logo](/Alexa%20Skill%20Testing.png)
 
 # Future State
 1. Add more cocktails for different results
