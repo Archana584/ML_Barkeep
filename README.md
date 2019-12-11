@@ -38,6 +38,7 @@ Input gate tries to learn the weights of the connections in the data. Keeps the 
 
 ![GitHub Logo](/after%20drink.PNG)
 
+# Alexa Skills Developer and AWS Lambda to build the Alexa skill
 ![GitHub Logo](/Alexa%20Skill%20Testing.png)
 
 # Future State
