@@ -25,13 +25,9 @@ LTSM is a special kind of RNN that is capable of learning long term dependencies
 Consists of memory containing cell, input gate, and output gate
 Input gate tries to learn the weights of the connections in the data. Keeps the relevant data as memory and drops the non-important.
 
-
-
 ## ML barkeep TextGenRNN Code
 
 ![GitHub Logo](/ML%20Barkeep%20TextGenRNN%20code.PNG)
-https://github.com/Archana584/ML_Barkeep/blob/master/ML%20Barkeep%20TextGenRNN%20code.PNG
-
 
 # Visualization of data in Tableau
 ![GitHub Logo](/before%20glass.PNG)
@@ -42,6 +38,7 @@ https://github.com/Archana584/ML_Barkeep/blob/master/ML%20Barkeep%20TextGenRNN%2
 
 ![GitHub Logo](/after%20drink.PNG)
 
+![GitHub Logo](/after%20drink.PNG)
 
 
 # Future State
