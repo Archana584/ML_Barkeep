@@ -41,7 +41,4 @@ Input gate tries to learn the weights of the connections in the data. Keeps the 
 # Alexa Skills Developer and AWS Lambda to build the Alexa skill
 ![GitHub Logo](/Alexa%20Skill%20Testing.png)
 
-# Future State
-1. Add more cocktails for different results
-2. Add name generator to Alexa skill to come up with fun names on the fly
-3. Build personalized recipes based on a person’s favorite cocktails
+
